@@ -35,6 +35,10 @@ android/keystores/
 android/app/release/
 android/app/google-services.json
 
+#iOS
+# CocoaPods
+/ios/Pods/
+
 # node.js
 #
 node_modules/
